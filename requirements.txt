@@ -1,4 +1,2 @@
 ipywidgets
-time
-random
 IPython

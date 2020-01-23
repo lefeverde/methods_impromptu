@@ -1,0 +1,29 @@
+Batch effect
+False discovery rate
+Pseudoalignment
+Gene set enrichment analysis
+Genome-wide association studies
+Probabilistic matrix factorization
+Principal component analysis
+Support vector machine
+Clustering
+Linear modeling
+Kernel trick
+t-test
+Normalization
+Exploratory data analysis
+.fastq
+Variant calling
+Priors (Bayesian)
+Confounding variable
+Weighted Gene Co-Expression Network Analysis
+Recursive function
+Robustness (statistics)
+Spearman correlation
+Pearson correlation
+k-nearest neighbors
+Dimensionality reduction
+Type I and type II errors
+Chi-squared test
+True/False positive
+True/False negative

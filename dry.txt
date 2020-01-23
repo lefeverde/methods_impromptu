@@ -10,6 +10,7 @@ Clustering
 Linear modeling
 Kernel trick
 t-test
+ANOVA
 Normalization
 Exploratory data analysis
 .fastq
@@ -27,3 +28,9 @@ Type I and type II errors
 Chi-squared test
 True/False positive
 True/False negative
+KEGG
+DAVID
+Multiple-sequence alignment
+Pair-wise sequence alignment
+Pseudotime analysis
+Object oriented programming 

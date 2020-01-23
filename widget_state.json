@@ -1,0 +1,88 @@
+{
+    "version_major": 2,
+    "version_minor": 0,
+    "state": {
+        "6a000b15941d48b6a05513643cebf239": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {}
+        },
+        "8ecd11e2964c4ef29472e2899c8b53be": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {}
+        },
+        "2d0cd5cb739842c3a0706875eae59766": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "Next",
+                "layout": "IPY_MODEL_6a000b15941d48b6a05513643cebf239",
+                "style": "IPY_MODEL_8ecd11e2964c4ef29472e2899c8b53be"
+            }
+        },
+        "3fa04d7675104810ac358dbaacd8138d": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {}
+        },
+        "547f4a6cabf7429390d7b52f20b675c9": {
+            "model_name": "ToggleButtonsStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "button_width": "",
+                "description_width": ""
+            }
+        },
+        "a1f903b1d21843139ee6571d43705abc": {
+            "model_name": "ToggleButtonsModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "_options_labels": [
+                    "Method0",
+                    "Method4",
+                    "Method5",
+                    "Method9",
+                    "Method2",
+                    "Method3"
+                ],
+                "button_style": "",
+                "icons": [],
+                "index": null,
+                "layout": "IPY_MODEL_3fa04d7675104810ac358dbaacd8138d",
+                "style": "IPY_MODEL_547f4a6cabf7429390d7b52f20b675c9",
+                "tooltips": []
+            }
+        },
+        "c0ab266c17ea4959a9b4b0639466a07f": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {}
+        },
+        "b78f4f7443a04a73ae891407c2dc3ad2": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "39ace9d469c84464a65dca4218e97e3a": {
+            "model_name": "HTMLModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "layout": "IPY_MODEL_c0ab266c17ea4959a9b4b0639466a07f",
+                "style": "IPY_MODEL_b78f4f7443a04a73ae891407c2dc3ad2",
+                "value": "<h1>Name5<h1>"
+            }
+        }
+    }
+}

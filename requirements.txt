@@ -1,5 +1,4 @@
 ipywidgets
-nbinteract
 time
 random
 IPython

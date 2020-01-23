@@ -1,13 +1,48 @@
 Polymerase chain reaction
-Annealing (PCR)
-Denaturation (PCR)
+Whole mount in situ hybridization
+Stable transgenesis (Tol2)
+Lineage Tracing (photoconvertible protein)
+RFLP (mutant band screening)
+CRISPR/Cas9 gene editing
+Light sheet imaging
 Agarose gel electrophoresis
 Cell cultures
 Cloning
 Suicide PCR
-Plasmid
 Transfection
 Transduction
 Lentivirus
+Gibson assembly
+Plasmid miniprep
+Chemical transformation (E. coli)
 Immunohistochemistry
-Plate counting 
+Immunocytochemistry
+Flow cytometry
+Reverse transcriptase
+Horizontal gene transfer
+Analogs
+Paralogs
+Homologs
+Transfection
+Plate counting
+Synteny
+Hardy-weinberg principle
+Mendelian genetics
+Protein-fragment complementation assay
+Recombinant DNA
+Western Blot
+2D ULA growth assay
+Transwell assay
+RPPA Assay
+ddPCR
+Wound scratch assay
+Boyden chamber
+Inducible knockout system
+Transduction
+ChIP
+Restriction Enzyme Digest
+Competent bacteria
+Synthetic genetic array
+Phylogeny
+Diabetic mouse model
+Production of iPSCs 
